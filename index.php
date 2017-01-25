@@ -11,7 +11,7 @@
               <nav>
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="#">Home</a></li>
- -->                </ul>
+                </ul>
               </nav>
             </div>
           </div>
@@ -20,7 +20,7 @@
           
           <div class="mastfoot">
             <div class="inner">
-              <p>© graudus</p>
+              <p>© graudusK</p>
             </div>
           </div>
 
